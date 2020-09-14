@@ -4,7 +4,8 @@ Selenium is designed to automate web browser interaction. It is primarily used t
 
 to get the code started we first need to need to install a couple things:
 
-1)Selenium, which allows you to control browsers from Python( try pip install selenium)
-2)ChromeDriver, which allows software to control Chrome (like Selenium!)
+1)Selenium, which allows you to control browsers from Python( try pip install selenium).
+
+2)ChromeDriver, which allows software to control Chrome (like Selenium!).
 
 Note : make sure the chromedriver is in the script file of python folder
